@@ -1,0 +1,201 @@
+season,HomeTeam,Goals,YellowCards,RedCards,Points
+season-0910,Arsenal,83,56,1,75
+season-0910,Aston Villa,52,61,2,64
+season-0910,Birmingham,38,74,1,50
+season-0910,Blackburn,41,59,2,50
+season-0910,Bolton,42,75,5,39
+season-0910,Burnley,42,57,2,30
+season-0910,Chelsea,103,56,5,86
+season-0910,Everton,60,57,2,61
+season-0910,Fulham,39,46,1,46
+season-0910,Hull,34,67,6,30
+season-0910,Liverpool,61,56,5,63
+season-0910,Man City,73,51,2,67
+season-0910,Man United,86,51,4,85
+season-0910,Portsmouth,34,72,5,28
+season-0910,Stoke,34,66,5,47
+season-0910,Sunderland,48,82,9,44
+season-0910,Tottenham,67,57,1,70
+season-0910,West Ham,47,66,3,35
+season-0910,Wigan,37,64,3,36
+season-0910,Wolves,32,64,4,38
+season-1011,Arsenal,72,68,6,68
+season-1011,Aston Villa,48,71,2,48
+season-1011,Birmingham,37,57,3,39
+season-1011,Blackburn,46,65,4,43
+season-1011,Blackpool,55,47,2,39
+season-1011,Bolton,52,67,5,46
+season-1011,Chelsea,69,59,1,71
+season-1011,Everton,51,58,5,54
+season-1011,Fulham,49,51,1,49
+season-1011,Liverpool,59,63,2,58
+season-1011,Man City,60,74,5,71
+season-1011,Man United,78,58,3,80
+season-1011,Newcastle,56,75,2,46
+season-1011,Stoke,46,70,1,46
+season-1011,Sunderland,45,59,5,47
+season-1011,Tottenham,55,51,2,62
+season-1011,West Brom,56,54,7,47
+season-1011,West Ham,43,58,1,33
+season-1011,Wigan,40,68,4,42
+season-1011,Wolves,46,63,2,40
+season-1112,Arsenal,74,67,4,70
+season-1112,Aston Villa,37,70,2,38
+season-1112,Blackburn,48,68,5,31
+season-1112,Bolton,46,51,5,36
+season-1112,Chelsea,65,75,4,64
+season-1112,Everton,50,61,1,56
+season-1112,Fulham,48,54,0,52
+season-1112,Liverpool,47,56,5,52
+season-1112,Man City,93,56,5,89
+season-1112,Man United,89,51,1,89
+season-1112,Newcastle,56,67,2,65
+season-1112,Norwich,52,59,3,47
+season-1112,QPR,43,57,9,37
+season-1112,Stoke,36,61,2,45
+season-1112,Sunderland,45,60,3,45
+season-1112,Swansea,44,40,2,47
+season-1112,Tottenham,66,45,3,69
+season-1112,West Brom,45,48,1,47
+season-1112,Wigan,42,68,3,43
+season-1112,Wolves,40,64,4,25
+season-1213,Arsenal,72,44,5,73
+season-1213,Aston Villa,47,74,3,41
+season-1213,Chelsea,75,52,3,75
+season-1213,Everton,55,60,3,63
+season-1213,Fulham,50,48,3,43
+season-1213,Liverpool,71,54,2,61
+season-1213,Man City,66,63,3,78
+season-1213,Man United,86,57,1,89
+season-1213,Newcastle,45,72,4,41
+season-1213,Norwich,41,60,1,44
+season-1213,QPR,30,59,3,25
+season-1213,Reading,43,45,1,28
+season-1213,Southampton,49,43,2,41
+season-1213,Stoke,34,80,4,42
+season-1213,Sunderland,41,62,3,39
+season-1213,Swansea,47,58,2,46
+season-1213,Tottenham,66,53,2,72
+season-1213,West Brom,53,62,4,49
+season-1213,West Ham,45,74,1,46
+season-1213,Wigan,47,66,2,36
+season-1314,Arsenal,68,53,4,79
+season-1314,Aston Villa,39,78,0,38
+season-1314,Cardiff,32,49,1,30
+season-1314,Chelsea,71,56,3,82
+season-1314,Crystal Palace,33,57,2,45
+season-1314,Everton,61,54,1,72
+season-1314,Fulham,40,57,1,32
+season-1314,Hull,38,53,4,37
+season-1314,Liverpool,101,54,1,84
+season-1314,Man City,102,72,1,86
+season-1314,Man United,64,66,3,64
+season-1314,Newcastle,43,52,6,49
+season-1314,Norwich,28,62,2,33
+season-1314,Southampton,54,60,0,56
+season-1314,Stoke,45,72,5,50
+season-1314,Sunderland,41,68,7,38
+season-1314,Swansea,54,55,3,42
+season-1314,Tottenham,55,66,4,69
+season-1314,West Brom,43,67,0,36
+season-1314,West Ham,40,61,5,40
+season-1415,Arsenal,71,68,2,75
+season-1415,Aston Villa,31,70,7,38
+season-1415,Burnley,28,64,2,33
+season-1415,Chelsea,73,77,4,87
+season-1415,Crystal Palace,47,63,4,48
+season-1415,Everton,48,66,2,47
+season-1415,Hull,33,71,6,35
+season-1415,Leicester,46,49,4,41
+season-1415,Liverpool,52,66,3,62
+season-1415,Man City,83,77,2,79
+season-1415,Man United,62,64,5,70
+season-1415,Newcastle,40,66,7,39
+season-1415,QPR,42,75,3,30
+season-1415,Southampton,54,57,3,60
+season-1415,Stoke,48,82,1,54
+season-1415,Sunderland,31,94,2,38
+season-1415,Swansea,46,48,5,56
+season-1415,Tottenham,58,79,4,64
+season-1415,West Brom,38,64,3,44
+season-1415,West Ham,44,64,2,47
+season-1516,Arsenal,65,39,4,71
+season-1516,Aston Villa,27,75,3,17
+season-1516,Bournemouth,45,52,1,42
+season-1516,Chelsea,59,58,6,50
+season-1516,Crystal Palace,39,60,1,42
+season-1516,Everton,59,44,5,47
+season-1516,Leicester,68,48,3,81
+season-1516,Liverpool,63,61,3,60
+season-1516,Man City,71,61,0,66
+season-1516,Man United,49,65,1,66
+season-1516,Newcastle,44,58,5,37
+season-1516,Norwich,39,61,3,34
+season-1516,Southampton,59,57,6,63
+season-1516,Stoke,41,51,4,51
+season-1516,Sunderland,48,62,2,39
+season-1516,Swansea,42,62,1,47
+season-1516,Tottenham,69,72,0,70
+season-1516,Watford,40,74,3,45
+season-1516,West Brom,34,63,3,43
+season-1516,West Ham,65,56,5,62
+season-1617,Arsenal,77,67,3,75
+season-1617,Bournemouth,55,51,3,46
+season-1617,Burnley,39,65,2,40
+season-1617,Chelsea,85,72,0,93
+season-1617,Crystal Palace,50,77,0,41
+season-1617,Everton,62,71,2,61
+season-1617,Hull,37,67,5,34
+season-1617,Leicester,48,71,1,44
+season-1617,Liverpool,78,54,0,76
+season-1617,Man City,80,71,4,78
+season-1617,Man United,54,76,2,69
+season-1617,Middlesbrough,27,76,1,28
+season-1617,Southampton,41,58,2,46
+season-1617,Stoke,41,70,2,44
+season-1617,Sunderland,29,76,4,24
+season-1617,Swansea,45,56,0,41
+season-1617,Tottenham,86,62,0,86
+season-1617,Watford,40,83,5,40
+season-1617,West Brom,43,80,0,45
+season-1617,West Ham,47,77,5,45
+season-1718,Arsenal,74,57,2,63
+season-1718,Bournemouth,45,55,1,44
+season-1718,Brighton,34,54,2,40
+season-1718,Burnley,36,65,0,54
+season-1718,Chelsea,62,41,4,70
+season-1718,Crystal Palace,45,71,0,44
+season-1718,Everton,44,51,3,49
+season-1718,Huddersfield,28,61,3,37
+season-1718,Leicester,56,52,5,47
+season-1718,Liverpool,84,44,1,75
+season-1718,Man City,106,58,2,100
+season-1718,Man United,68,64,1,81
+season-1718,Newcastle,39,52,2,44
+season-1718,Southampton,37,63,2,36
+season-1718,Stoke,35,62,1,33
+season-1718,Swansea,28,51,1,33
+season-1718,Tottenham,74,49,2,77
+season-1718,Watford,44,63,4,41
+season-1718,West Brom,31,72,1,31
+season-1718,West Ham,48,72,2,42
+season-1819,Arsenal,73,72,2,70
+season-1819,Bournemouth,56,60,1,45
+season-1819,Brighton,35,60,4,36
+season-1819,Burnley,45,75,1,40
+season-1819,Cardiff,34,65,1,34
+season-1819,Chelsea,63,49,0,72
+season-1819,Crystal Palace,51,58,2,49
+season-1819,Everton,54,55,4,54
+season-1819,Fulham,34,68,2,26
+season-1819,Huddersfield,22,55,4,16
+season-1819,Leicester,51,57,5,52
+season-1819,Liverpool,89,37,2,97
+season-1819,Man City,95,44,1,98
+season-1819,Man United,65,73,4,66
+season-1819,Newcastle,42,57,2,45
+season-1819,Southampton,45,71,3,39
+season-1819,Tottenham,67,56,3,71
+season-1819,Watford,52,77,4,50
+season-1819,West Ham,52,59,1,52
+season-1819,Wolves,47,72,1,57
